@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/januszkowalski2026/cicd/_apis/build/status%2FJanusz-droid.pipelines-java?branchName=main)](https://dev.azure.com/januszkowalski2026/cicd/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
